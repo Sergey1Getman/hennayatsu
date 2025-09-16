@@ -1,0 +1,5 @@
+so this is a document regarding the neocities website i'd like to develop. 
+I'd like the main accent colors to be green, cyan and maybe some other color. I'm not sure if it's a good idea to do it that way but i'll try. 
+so the main thing should look something like this. 
+a nice header with many contents of the site that will be much simpler web pages with either text, stills or audio(don't know how to do that though). In it i'd like to do a part with my short stories, pictures i like either from real life or from manga i read over the years. 
+I won't be writing much more for now because i don't have anything written out yet. Also will need to find plugin for neovim to mark out html and css. I'd love the process to be as painfull and tedious as possible and won't agree on generating anything, just pure oldschool typing.
