@@ -1,0 +1,11 @@
+#body{
+    margin : auto;
+    width: 50%;
+    border : 3px solid green;
+    padding : 10px;
+    text-align : center;
+}
+#header-div{
+  height: 80%;
+  margin-top: 5%;
+}
