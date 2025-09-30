@@ -22,12 +22,17 @@ html{
   height : 100px;
   text-align : center;
   line-height: 100px;
+  text-decoration: none;
+  color : white;
 }
 #left_button {
   height: 100px;
   text-align: center;
   line-height: 100px;
+  text-decoration : none;
+  color: white;
 }
+
 #body{
     margin : auto;
     width: 50%;
@@ -37,9 +42,9 @@ html{
     font-family: "Lucida Console";
     height: 500px;
     background-color: black;
+    margin-top : 7%;
   
 }
 #header-div{
   height: 100%;
-  margin-top: 7%;
 }
