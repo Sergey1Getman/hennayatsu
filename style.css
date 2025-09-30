@@ -1,13 +1,45 @@
+html{
+  background-color: black;
+}
+#left, #right{
+  color: white;
+}
+#left{
+  position: absolute;
+  width: 200px;
+  top: 15%;
+  left: 25%;
+  height: 500px;
+}
+#right {
+    position: absolute;
+    top: 15%;
+    right:25%;
+    width: 200px;
+    height: 500px;
+}
+#right_button{
+  height : 100px;
+  text-align : center;
+  line-height: 100px;
+}
+#left_button {
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
 #body{
     margin : auto;
     width: 50%;
-    border : 3px solid green;
+    border : 1px solid green;
     padding : 10px;
     text-align : center;
     font-family: "Lucida Console";
     height: 500px;
+    background-color: black;
+  
 }
 #header-div{
   height: 100%;
-  margin-top: 5%;
+  margin-top: 7%;
 }
