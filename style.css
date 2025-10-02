@@ -46,8 +46,26 @@ html{
   
 }
 #header-div{
-  height: 100px;
   text-decoration : none;
   color : white;
   font-family: "Lucida Console";
+  height: 100px
+}
+#language_1{
+  width 20px;
+  height: 20px;
+  float: right;
+}
+#language_2{
+  width: 28px;
+  height: 20px;
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+#footer{
+  color: white;
+  font-family : "Lucida Console";
+  text-align: center;
+  margin-top: 150px
 }
